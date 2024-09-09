@@ -31,9 +31,10 @@
 
 ### 📫 **Let's Connect!**
 
-[![LinkedIn]([(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagandeep-jodhawat-b005711b3/))
-[![Twitter]([https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/andre_secco)]((https://x.com/host_gagandeep))
-[![Designing Portfolio]([https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white)](https://gagandeep.my.canva.site/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gagandeep-jodhawat-b005711b3/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://x.com/host_gagandeep)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white)](https://gagandeep.my.canva.site/)
 
 ---
 
