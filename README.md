@@ -42,4 +42,3 @@
 
 *"Creativity is intelligence having fun."* - *Albert Einstein*
 
-![Divider](https://your-divider-image-link.com)
