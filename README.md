@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hello, I'm **Gagandeep**!
 
-<!--
-**this-is-gagandeep/this-is-gagandeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://media.licdn.com/dms/image/D5616AQFv4DCNLB17lQ/profile-displaybackgroundimage-shrink_200_800/0/1666363787498?e=2147483647&v=beta&t=oB9CKBMczN74UwLkoarvEb2gG18uR3TxvkAbmfMiPTU)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Passionate about Technology, Design, and Innovation**
+
+- 🎨 **Graphic Designer**
+  - 🏆 3+ years of freelance experience
+  - 🛠 Skilled in **Photoshop** and **Adobe Illustrator**
+- 🎥 **Video Editor**
+  - 🎬 Proficient in **Sony Vegas**, **Premiere Pro**, and **DaVinci Resolve**
+- 👨‍💻 **MCA Student**
+  - 🎓 BCA background
+  - 🔥 Currently learning **Flutter** and the **MERN stack** in parallel
+- 🕹 **Gamer**
+  - 🎮 Plays multiple games with a passion for strategy and teamwork
+
+---
+
+### 🌟 **Skills & Tools**
+
+| **Design**           | **Video Editing**     | **Development**              |
+| -------------------- | -------------------- | ---------------------------- |
+| Photoshop            | Sony Vegas           | Flutter                      |
+| Adobe Illustrator    | Premiere Pro         | MERN Stack                   |
+| UI/UX Design         | DaVinci Resolve      | Git & GitHub                 |
+
+---
+
+### 📫 **Let's Connect!**
+
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gagandeep-jodhawat-b005711b3/))
+[![Twitter]([https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-profile](https://x.com/host_gagandeep))
+[![Designing Portfolio]([https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white)](https://your-portfolio.com](https://gagandeep.my.canva.site/))
+
+---
+
+### ✨ **What can I say...**
+
+*"Creativity is intelligence having fun."* - *Albert Einstein*
+
+![Divider](https://your-divider-image-link.com)
